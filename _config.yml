@@ -1,0 +1,18 @@
+title: wasm4j
+tagline: WebAssembly libraries for Java
+description: WebAssembly libraries for Java
+url: https://wasm4j.org
+author: wasm4j project
+logo: assets/images/wasm4j-duke-200w.png
+
+show_downloads: false
+google_analytics: false
+
+github:
+  url: https://wasm4j.org
+  private: false
+  license: Apache License 2.0
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-primer
